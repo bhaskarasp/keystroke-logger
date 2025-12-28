@@ -16,6 +16,8 @@ This project demonstrates the concept of **keystroke logging** in a controlled, 
 
    ```bash
    git clone https://github.com/bhaskarasp/keystroke-logger.git
+   ```
+   ```
    cd keystroke-logger
    ```
 
